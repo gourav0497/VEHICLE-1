@@ -4,6 +4,12 @@ Diameter		: 2.8 m
 Number of stages	: 4
 Lift off mass	: 320 tonnes (XL)
 
+ PS3
+Third Stage: PS3
+The third stage of PSLV is a solid rocket motor that provides the upper stages high thrust after the atmospheric phase of the launch.
+Fuel		: HTPB
+Max. Thrust	: 255 kN
+
  PS2
 Second Stage: PS2
 PSLV uses an Earth storable liquid rocket engine for its second stage, know as the Vikas engine, developed by Liquid Propulsion Systems Centre.
@@ -17,3 +23,4 @@ Engine	: S139
 Fuel		: HTPB
 Max. Thrust	: 4800 kN
  master
+
